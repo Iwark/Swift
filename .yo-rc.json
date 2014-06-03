@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Swift",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "Iwark",
+    "githubRepository": "Swift"
+  }
+}
